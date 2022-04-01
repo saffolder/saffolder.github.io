@@ -1,32 +1,28 @@
-# Your Name
+# Samuel Affolder
 
-your.name@example.com
+samaffolder@gmail.com
 
-http://www.example.com
-
-http://www.linkedin.com/in/yourname
+http://www.linkedin.com/in/samaffolder
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
-
 # Work Experience (only last 10 years)
 
-## University Name 1 (City, State)
+## University of Washington (Seattle, WA)
 
-* [University 1][] description, particularly if not well-known.*
+*[University of Washington](https://www.washington.edu/), a highly acreditted institute for higher education.*
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+**Student-Athlete** (2019 - 2024)
 
 Summary of your role
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- B.A. in Geography with Data Science
+- Minor in Informatics
+- 3.5+ GPA
+- 5 years of competition on the Cross Country and Track and Field teams.
 
 ## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
+*[University 2]() description, particularly if not well-known.*
 
 ** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
 
