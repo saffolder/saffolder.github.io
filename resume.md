@@ -10,7 +10,7 @@ http://www.linkedin.com/in/samaffolder
 
 ## University of Washington (Seattle, WA)
 
-*[University of Washington](https://www.washington.edu/), a highly acreditted institute for higher education.*
+*[University of Washington, Undergraduate](https://www.washington.edu/), a highly acreditted institute for higher education.*
 
 **Student-Athlete** (2019 - 2024)
 
@@ -18,34 +18,24 @@ Summary of your role
 
 - B.A. in Geography with Data Science
 - Minor in Informatics
-- 3.5+ GPA
+- **3.5+ GPA**
 - 5 years of competition on the Cross Country and Track and Field teams.
 
-## University Name 2 (City, State)
-*[University 2]() description, particularly if not well-known.*
+## University of Washington (Seattle, WA)
+*[University of Washington, Graduate School](https://www.washington.edu/datasciencemasters/).*
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+**Graduate Student** (2024 - 2026)
 
 Summary of your role
 
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- M.S. in Data Science
+- Completion of a data science capstone.
 
+## University of Washington (Seattle, WA)
 
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+**Teaching Assistant in the Geography Department** (2023 - 2026)
+
+Summary of your role
+
+- Domain of focus was in GIS.
+- **Twelve quarters** of TA experience.
