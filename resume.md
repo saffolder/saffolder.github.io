@@ -1,7 +1,10 @@
 # Samuel Affolder
 
-samaffolder@gmail.com
+<img src="https://gohuskies.com/images/2021/9/10/Sam_Affolder_2021.jpg"
+alt="Profile Picture" width="25%">
 
+## Contact
+> samaffolder@gmail.com
 http://www.linkedin.com/in/samaffolder
 
 # Summary
